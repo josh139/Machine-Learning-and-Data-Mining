@@ -34,5 +34,5 @@ Time series analysis can be used in a multitude of business applications for for
 
 In this forecasting part you need to use an MLP-NN to predict the next step-ahead exchange rate of USD/EUR. Daily data (exchangeUSD.xls) have been collected from October 2011 until October 2013 (500 data). The first 400 of them have to be used as training data, while the remaining ones as testing set. Use only the 3rd column from the .xls file, which corresponds to the exchange rates.
 
-### **Winning model**
+### **Winning Model:**
 ![model_1](https://user-images.githubusercontent.com/66877247/183318088-b6f67cb8-c63b-48ea-8915-2393fef49de6.png)
